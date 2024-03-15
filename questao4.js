@@ -1,0 +1,2 @@
+// Liga o Interruptor 1 espera alguns minutos e desliga, liga o interruptor 2 e entra na sala 1:
+// se ligada interruptor 2 = sala 1 e vai pra sala 2 --> se desligada e quente interruptor 1 = sala 2 se desligada e fria interruptor 3 = sala 2
